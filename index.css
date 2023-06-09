@@ -107,3 +107,32 @@
     font-size: 18px;
     font-weight: bold;
 }
+
+.sign{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    margin-right:300px;
+    margin-left: 350px;
+    background-color: #3882F6;
+    height:100px;
+    align-items: center;
+    color: #F9FAF8;
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.col{
+    font-size:18px;
+    font-weight: 400;
+}
+
+.sign-up{
+    color: #F9FAF8;
+    font-weight: 900;
+    font-size: 18px;
+    background-color:#3882F6;
+    border-color: #E5E7EB;
+}
+

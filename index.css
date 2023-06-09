@@ -135,4 +135,13 @@
     background-color:#3882F6;
     border-color: #E5E7EB;
 }
+.color{
+    background-color: #1F2937;
+    color:#E5E7EB;
+    margin-bottom: 0px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 

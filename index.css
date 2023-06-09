@@ -51,5 +51,33 @@
     background-color: #3882F6;
     color:#E5E7EB;
     width:100px;
+    height:30px;
     font-weight: bold;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 75px;
+    font-size: 36px;
+    font-weight: extra bold;
+    color:#1F2937
+}
+
+.memes{
+    display: flex;
+    justify-content: center;
+    gap:100px;
+}
+
+.ione,.itwo,.ithree,.ifour{
+    height:200px;
+    width:200px;
 }
